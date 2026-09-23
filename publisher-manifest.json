@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3737585cc8a254961d160f81",
+  "owner": "gyhnusbwhx",
+  "repo": "page-868aafad60c5563f4b8b5aee",
+  "title": "HaoBa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "868aafad60c5563f4b8b5aee",
+      "a": "HaoBa",
+      "b": "2027最新官网",
+      "entity": "HaoBa",
+      "brand": "HaoBa",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cbea60605a25ceb3790769aa2b09a3cc80fada59c8c335f2dec9d39942efab29",
+      "content": {
+        "primary_entity": "HaoBa",
+        "keyword1": "HaoBa",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，按文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "按设备选好客户端，对照套餐流量与在线数，再决定订阅周期。",
+          "AI_CLOSING_TITLE": "选好套餐再订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付起步价 ¥15，年付最低 ¥150/年。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。按设备系统选择客户端并导入订阅后，即可在常用设备上使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期出发，三档套餐对应不同使用强度。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，适合手机与笔记本日常使用，年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备，每月 300GB 流量，IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备，每月 1000GB 流量，适合多人共享高带宽。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TITLE_2": "中等流量档",
+          "AI_FEATURE_TITLE_3": "多人共享档",
+          "AI_GUIDE_INTRO": "先看设备与流量需求，再按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "HaoBa 海外加速器提供基础版、旗舰版与团队版三档套餐，覆盖 3 台到 20 台设备，月付与年付均可选择。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备灵活选",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "多端客户端导入订阅",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线数、流量额度与订阅周期，确认适配要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅，在手机、电脑或路由器上完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置",
+          "AI_VISUAL_TITLE": "HaoBa 加速套餐",
+          "AI_FAQ_ANSWER_1": "HaoBa 目前包含基础版、旗舰版和团队版，月付价格分别为 ¥15、¥35 和 ¥85，对应的每月流量为 100GB、300GB 和 1000GB。按年付则分别为 ¥150、¥350 和 ¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多人共用或设备较多时，选择旗舰版或团队版更能满足需求。",
+          "AI_FAQ_ANSWER_3": "HaoBa 采用订阅制配置，订单生效后会获得订阅信息。将订阅链接导入所选客户端，更新节点列表即可开始使用，具体步骤可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版包含全节点原生流媒体解锁，基础版提供基础流媒体解锁。不同平台的流媒体服务效果可能存在差异，建议根据常用服务选择套餐。",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、支持企业定制路由和专属客户经理服务，适合有固定多人和高带宽需求的小型团队或企业用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "HaoBa 有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何配置订阅使用 HaoBa？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁支持哪些套餐？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的用户？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "feijiyunjc.com",
+    "host": "feijiyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "15abb63fe0a326a640ea56dfd7fad8c489a4048510753073a87622a103ec2d26",
+    "sitemap.xml": "b2f8ae0dd6417757f3864e1c6728844d808ff20734d35adfce01e6242433e0cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d59dc206860cf14c5fdc15d9f0d8417952dfc61c407b3d39ff27935adfdaf024",
+    "robots.txt": "512d62a56401d62b24d2e247cddc0a2199e309464083cf92ede97159cd37caa0",
+    "ff975439e7b424dd5cec733fa225a6d7.txt": "4252dfcc25f8025056bb3c5c708dabf87e60445a4a0e5d9c4eeb56ce40e9daf6"
+  },
+  "revision": "e659babd491b5745607097e0e9cc6a7119a2404488fe8056cde1262ad0222b46"
+}
